@@ -1,1 +1,1 @@
-[live dem](https://friendlychat-59410.web.app/)
+[live demo](https://friendlychat-59410.web.app/)
